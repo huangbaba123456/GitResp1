@@ -8,5 +8,5 @@ package Bao;
  */
 public class Perosn {
     String name;
-    double weight;
+   double height;
 }
