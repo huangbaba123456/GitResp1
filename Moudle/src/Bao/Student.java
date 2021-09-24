@@ -9,6 +9,7 @@ package Bao;
 public class Student {
     private String name;
        double weight;
+        String sex;
        double height;
        double age;
        String aihao;
