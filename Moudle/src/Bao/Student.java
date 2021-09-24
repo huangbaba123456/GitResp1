@@ -13,4 +13,5 @@ public class Student {
        double height;
        double age;
        String aihao;
+       String mother;
 }
