@@ -9,4 +9,5 @@ package Bao;
 public class Student {
     private String name;
        double weight;
+       double height;
 }
